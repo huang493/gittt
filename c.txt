@@ -1,0 +1,2 @@
+this is c contents
+other change in c.txt
