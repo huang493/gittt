@@ -1,2 +1,3 @@
 rebase _2 a
 rebase _2 b
+rebase _2 c
