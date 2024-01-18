@@ -9,3 +9,4 @@ rebase main e
 rebase _2 a
 rebase _2 b
 rebase _2 c
+rb update a by 2
