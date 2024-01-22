@@ -1,0 +1,3 @@
+[submodule "gitttSub"]
+	path = gitttSub
+	url = https://github.com/huang493/gitttSub.git
