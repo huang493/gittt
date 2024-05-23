@@ -5,3 +5,4 @@ ff->b
 2
 OK
 fb eidt b.txt
+main edit b.txt
