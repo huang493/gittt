@@ -2,3 +2,4 @@
 OK
 fb edit c.txt
 fc edit c.txt
+fc eee

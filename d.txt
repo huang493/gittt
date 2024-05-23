@@ -4,3 +4,4 @@ rb asdasdad 1
 OK
 fb edit d.txt
 main edit d.txt
+fc eee
