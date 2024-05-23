@@ -5,3 +5,4 @@ OK
 fb eidt a.txt
 main edit a.txt
 fc aaa
+fc bbb
