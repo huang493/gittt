@@ -7,3 +7,4 @@ OK
 fb eidt b.txt
 main edit b.txt
 main eee
+main dddd
