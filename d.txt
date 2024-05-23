@@ -5,3 +5,4 @@ OK
 fb edit d.txt
 main edit d.txt
 fc eee
+fc dddd
