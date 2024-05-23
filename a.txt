@@ -3,3 +3,4 @@ a
 1
 OK
 fb eidt a.txt
+main edit a.txt
