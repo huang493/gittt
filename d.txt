@@ -2,3 +2,4 @@ main m
 rb asdasdad 
 rb asdasdad 1
 OK
+fb edit d.txt
