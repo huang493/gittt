@@ -7,3 +7,4 @@ main edit a.txt
 fc aaa
 fc bbb
 main eee
+main dddd
